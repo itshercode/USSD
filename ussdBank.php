@@ -1,4 +1,4 @@
-# USSD
+
 <?php
 require_once('lib/nusoap.php');
 
